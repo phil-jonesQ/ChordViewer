@@ -59,7 +59,7 @@ $meta_files=get_files();
 //array_multisort($meta_files);
 
 // Debug
-print_r ($meta_files);
+//print_r ($meta_files);
 
 // Generate the dynamic links
 foreach ($meta_files as $title => $file_name) {
