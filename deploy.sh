@@ -1,5 +1,7 @@
 #!/bin/bash
 
+git pull origin master
+
 cp -fv ./Dockerfile_pi Dockerfile
 
 echo "Destorying container.."
