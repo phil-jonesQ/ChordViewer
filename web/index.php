@@ -56,7 +56,7 @@ function get_files() {
 }
 
 $meta_files=get_files();
-//array_multisort($meta_files);
+array_multisort($meta_files);
 
 // Debug
 //print_r ($meta_files);
