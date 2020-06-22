@@ -85,7 +85,7 @@ foreach ($meta_files as $title => $file_name) {
 ?>
 
 
-	<p>The following are songs with lyrics and the chord above each lyric - Click on a link to view the song...</p>
+	<p>The above are songs with lyrics and the chord above each lyric - Click on a link to view the song...</p>
 	</div>
 	</body>
 </html>
