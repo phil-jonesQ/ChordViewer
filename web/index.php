@@ -12,7 +12,6 @@
 	<div class="jumbotron text-center">
 	<h1>Chord Viewer</h1>
 	<h2>Select A Song</h2>
-	<h2>The following are songs with lyrics and the chord above each lyric - Click on a link to view the song...</h2>
 	<?php
 
 	// Function to get the meta files, extra the details and return an associated array
@@ -86,6 +85,7 @@ foreach ($meta_files as $title => $file_name) {
 ?>
 
 
+	<p>The following are songs with lyrics and the chord above each lyric - Click on a link to view the song...</p>
 	</div>
 	</body>
 </html>
